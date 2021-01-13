@@ -3,3 +3,5 @@ a.out
 .vscode/settings.json
 .vscode/launch.json
 main.cpp
+C++/.vscode/launch.json
+C++/.vscode/tasks.json
